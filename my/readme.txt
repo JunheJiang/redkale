@@ -1,9 +1,8 @@
-´ËÄ¿Â¼ÏÂµÄÎÄ¼şÊÇÓÃÀ´·¢²¼µ½sonatypeÊ±Ê¹ÓÃ£¬ ²»ÄÜÓÃÓÚ¹¤³Ì´´½¨¡£
 
-Ê¹ÓÃgpgÉú³ÉsonatypeÃØÔ¿:
+æ­¤ç›®å½•ä¸‹çš„æ–‡ä»¶æ˜¯ç”¨æ¥å‘å¸ƒåˆ°sonatypeæ—¶ä½¿ç”¨ï¼Œ ä¸èƒ½ç”¨äºå·¥ç¨‹åˆ›å»ºã€‚
 
-1¡¢ gpg  ¨C-gen-key
-2¡¢ gpg --keyserver keys.openpgp.org --send-keys  ÄãµÄ¹«Ô¿(Ò»´®Ê®Áù½øÖÆµÄÊı×Ö£¬Àı£ºDE346FA5)
-      ÌáÊ¾£º gpg: ´Ó¹«Ô¿·şÎñÆ÷½ÓÊÕÊ§°Ü£ºServer indicated a failure  ±íÊ¾·şÎñÆ÷²»¿ÉÓÃ
+ä½¿ç”¨gpgç”Ÿæˆsonatypeç§˜é’¥:
 
-  
+1ã€ gpg  â€“-gen-key
+2ã€ gpg --keyserver keys.openpgp.org --send-keys  ä½ çš„å…¬é’¥(ä¸€ä¸²åå…­è¿›åˆ¶çš„æ•°å­—ï¼Œä¾‹ï¼šDE346FA5)
+      æç¤ºï¼š gpg: ä»å…¬é’¥æœåŠ¡å™¨æ¥æ”¶å¤±è´¥ï¼šServer indicated a failure  è¡¨ç¤ºæœåŠ¡å™¨ä¸å¯ç”¨
